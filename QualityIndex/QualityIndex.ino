@@ -8,8 +8,8 @@
 // Set these to run example.
 #define FIREBASE_HOST "arduino-pollution-default-rtdb.firebaseio.com"
 #define FIREBASE_AUTH "JLoueMInkwOXuDeFy6f20ZDDwLmwydXU42bWGmet"
-#define WIFI_SSID "skynet"
-#define WIFI_PASSWORD "9448893603"
+#define WIFI_SSID "ssid"
+#define WIFI_PASSWORD "password"
 
 // MQ-135 sensor values
 #define ANALOGPIN A0    //  Define Analog PIN on Arduino Board
