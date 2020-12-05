@@ -91,8 +91,6 @@ void loop() {
     checkFirebaseFail();
   }
 
-  // handle error
-
   delay(1000);
 }
 
