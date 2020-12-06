@@ -118,7 +118,7 @@ float getMqSensorValue() {
     Serial.print("CO2 ppm value : ");
     Serial.println(ppm[i]);
     sum += ppm[i];
-    delay(2000);
+    delay(1000);
   }
   float avg = sum / (float)maxN;
   Serial.println(avg);
